@@ -1,5 +1,3 @@
-# PingPongGame
-Ping Pong
 from pygame import *
 '''Required classes'''
 
